@@ -1,0 +1,12 @@
+<html>
+<title> Activity 1 </title>
+<head>
+</head>
+<body>
+<h1> Student Information </h1>
+<h1>Joneben A. Fanoga</h1>
+<h1>BSIT</h1>
+<h1>2220</h1>
+<h1>2nd Year</h1>
+</body>
+</html>
